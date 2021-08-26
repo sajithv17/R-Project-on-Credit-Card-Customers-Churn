@@ -1,3 +1,10 @@
+##############################################################################################
+R for Data Analysis Project on Credit Card Customers Churn
+Prepared by Sajith Vellappillil
+##############################################################################################
+
+
+
 library(tidyverse)
 library(plyr)
 library(readr)
